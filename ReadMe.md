@@ -1,5 +1,7 @@
 # 💫 About Me:
-sou estudante do curso de análise e desenvolvimento de sistema<br>na Cruzeiro do Sul, com interesse em me tornar analista de dados.
+Atualmente, sou soldado do Exército Brasileiro, onde desenvolvo disciplina, trabalho em equipe e habilidades organizacionais. Paralelamente, estou cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul, com foco em expandir meus conhecimentos em tecnologia e dados.
+
+Meu objetivo é ingressar na área de TI como analista de dados, utilizando competências em programação Python e exploração de IA. Dedico-me ao aprendizado constante e busco colaborar em projetos que unam inovação tecnológica e impacto organizacional
 
 
 ## 🌐 Socials:
